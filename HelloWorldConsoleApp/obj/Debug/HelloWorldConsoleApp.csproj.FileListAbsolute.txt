@@ -1,0 +1,7 @@
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.AssemblyReference.cache
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+E:\2Programming\1 C# SkillBox\Проекты\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb
